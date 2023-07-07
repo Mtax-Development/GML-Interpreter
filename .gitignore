@@ -1,0 +1,25 @@
+## General
+animcurves/
+datafiles/
+extensions/
+fonts/
+options/
+paths/
+sequences/
+shaders/
+sprites/
+tilesets/
+timelines/
+sounds/
+README.md
+LICENSE
+
+##GML Development Toolbox
+scripts/msg/
+scripts/out/
+scripts/array/
+scripts/file_to_string/
+
+##GML-OOP
+scripts/ErrorReport/
+scripts/StringParser/
