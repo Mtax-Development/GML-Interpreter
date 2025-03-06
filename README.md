@@ -26,7 +26,7 @@ This project uses the following script files from other free and open-source lib
 
 1. Visit the link of each raw script file linked above. Then perform steps below for each of them.
 2. Select and copy the entire file. (Keyboard shortcuts: `Ctrl+A` to select the entire content, `Ctrl+C` to copy it.)
-3. In GameMaker with opened project that **GML Interpreter** was included to, create a script asset with the name of currently copied script. (Keyboard shortcuts: `Alt+C` to create a script asset, `F2` to rename the created asset.)
+3. In GameMaker with opened project that **GML Interpreter** was included to, create a script asset with the name of currently copied script and edit it to paste into its content. (Keyboard shortcuts: `Alt+C` to create a script asset, `F2` to rename the created asset, `Ctrl+V` to paste the content.)
 
 Alternatively, entire content of repositories linked above can be imported to the project, according to instructions found in each repository.
 
